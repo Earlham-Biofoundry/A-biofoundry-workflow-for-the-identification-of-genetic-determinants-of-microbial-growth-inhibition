@@ -1,0 +1,2 @@
+# A-biofoundry-workflow-for-the-identification-of-genetic-determinants-of-microbial-growth-inhibition
+This repository contains the scripts packages needed to execute the automated colony picking and bioassay associated with the publication titled A biofoundry workflow for the identification of biosynthetic gene clusters associated with microbial growth inhibition and instructions to import packages to execute them.
